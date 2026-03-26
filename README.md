@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Mohd Armaan Tak
 
-<!--
-**Armaan0047/Armaan0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech 1st Year Student (CSR Branch)  
+💻 Learning C++ & Web Development  
+🚀 Future Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C++
+- HTML (learning)
+- Basic Programming
+
+---
+
+## 📚 Currently Learning
+- Object Oriented Programming (OOPS)
+- Data Structures (start soon)
+- Web Development
+
+---
+
+## 🎯 Goals
+- Build strong coding skills
+- Upload projects regularly
+- Crack internship by 2nd year
+
+---
+
+## 📫 Connect with me
+- Email: 2025pietcrmohd035@poornima.org
+
+---
+
+🔥 “Consistency is more powerful than talent”
+
+                                                                
+
+
+
+
+
+
+
